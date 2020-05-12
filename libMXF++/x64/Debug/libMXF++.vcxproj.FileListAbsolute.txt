@@ -1,0 +1,2 @@
+D:\TestProject\MXF_Test\x64\Debug\libMXF++.pdb
+D:\TestProject\MXF_Test\libMXF++\x64\Debug\libMXF++.pdb
