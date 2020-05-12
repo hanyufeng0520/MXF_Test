@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/libMXF/x64/Debug
-/.vs/MXF_Test/v16
-/MXF_Test/x64/Debug
-/x64/Debug
+/.vs
+/x64/Release_Debug
+/Test_MXF/Debug
+/Test_MXF/x64

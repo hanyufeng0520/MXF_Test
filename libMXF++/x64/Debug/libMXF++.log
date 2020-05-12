@@ -1,9 +1,0 @@
-﻿  AvidHeaderMetadata.cpp
-  GenericDataEssenceDescriptor.cpp
-  GenericDescriptor.cpp
-  GenericPackage.cpp
-  GenericPictureEssenceDescriptor.cpp
-  SourceClip.cpp
-  Partition.cpp
-  Generating Code...
-  libMXF++.vcxproj -> D:\TestProject\MXF_Test\x64\Debug\libMXF++.lib
